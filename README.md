@@ -10,7 +10,7 @@ Move this script into the /etc/init.d, give him appropriate permissions then run
 sudo update-rc.d soundbar-always-on.sh defaults
 ```
 
-The script should not run when starting Linux-based systems, if the commands inside are compatible with the latter.
+The script should run when starting Linux-based systems, if the commands inside are compatible with the latter.
 
 ## Details
 
